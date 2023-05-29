@@ -1,5 +1,5 @@
 """
-This code is to compare PDASGD(our algorithm) with AAM, APDAGD,PDASMD,Sinkhorn, stochastic Sinkhorn  on MNIST data. 
+This code is to compare PDASGD(our algorithm) with AAM, APDAGD, PDASMD, Sinkhorn, stochastic Sinkhorn on MNIST data. 
 
 
 Some parts are modified by https://github.com/PythonOT/POT/tree/master/ot, https://github.com/JasonAltschuler/OptimalTransportNIPS17 and https://github.com/nazya/AAM. 
